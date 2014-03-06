@@ -1,0 +1,35 @@
+{
+  "name": "envbang-node",
+  "version": "0.0.1",
+  "description": "Ensure that you have the correct environment variables available.",
+  "main": "lib/envbang.js",
+  "directories": {
+    "test": "spec"
+  },
+  "scripts": {
+    "test": "mocha spec/*.js spec/**/*.js --require chai --reporter spec --ui bdd --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crushlovely/envbang-node.git"
+  },
+  "keywords": [
+    "configuration",
+    "dotenv",
+    "env",
+    ".env",
+    "environment",
+    "variables",
+    "config"
+  ],
+  "readmeFilename": "README.md",
+  "author": "pjkelly",
+  "license": "BSD",
+  "dependencies": {
+    "underscore": ""
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
