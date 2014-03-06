@@ -1,6 +1,7 @@
 # EnvBang for Node.js
 
 ![Build Status](https://travis-ci.org/crushlovely/envbang-node.png)
+[![Code Climate](https://codeclimate.com/github/crushlovely/envbang-node.png)](https://codeclimate.com/github/crushlovely/envbang-node)
 
 Ensure you have all the right environment variables set in your app.
 
