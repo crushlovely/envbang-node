@@ -22,7 +22,6 @@
     "variables",
     "config"
   ],
-  "readmeFilename": "README.md",
   "author": "pjkelly",
   "license": "BSD",
   "dependencies": {
@@ -31,5 +30,9 @@
   "devDependencies": {
     "chai": "*",
     "mocha": "*"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/crushlovely/envbang-node/issues"
+  },
+  "homepage": "https://github.com/crushlovely/envbang-node"
 }
