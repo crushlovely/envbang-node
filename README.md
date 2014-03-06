@@ -32,8 +32,7 @@ This package is meant to be used as a companion to [dotenv-node](https://github.
 ### References
 
 * [The Twelve Factor App](http://12factor.net/config)
-* `jcamenisch/ENV_BANG` - the original, written in Ruby - https://github.com/jcamenisch/ENV_BANG
-* `bkeepers/dotenv` - the original, written in Ruby - https://github.com/bkeepers/dotenv
+* [jcamenisch/ENV_BANG](https://github.com/jcamenisch/ENV_BANG) - the original, written in Ruby
 
 ## Contributing
 
