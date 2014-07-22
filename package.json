@@ -7,7 +7,7 @@
     "test": "spec"
   },
   "scripts": {
-    "test": "mocha spec/*.js spec/**/*.js --require chai --reporter spec --ui bdd --colors"
+    "test": "istanbul cover _mocha -- spec/*.js spec/**/*.js --require chai --reporter spec --ui bdd --colors"
   },
   "repository": {
     "type": "git",
@@ -28,8 +28,10 @@
     "underscore": ""
   },
   "devDependencies": {
+    "istanbul": "*",
     "chai": "*",
-    "mocha": "*"
+    "mocha": "*",
+    "codeclimate-test-reporter": "*"
   },
   "bugs": {
     "url": "https://github.com/crushlovely/envbang-node/issues"
