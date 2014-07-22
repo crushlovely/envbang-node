@@ -1,7 +1,9 @@
 # EnvBang for Node.js
 
-![Build Status](https://travis-ci.org/crushlovely/envbang-node.png)
-[![Code Climate](https://codeclimate.com/github/crushlovely/envbang-node.png)](https://codeclimate.com/github/crushlovely/envbang-node)
+[![NPM Version](http://img.shields.io/npm/v/envbang-node.svg?style=flat)](https://www.npmjs.org/package/envbang-node)
+[![Build Status](http://img.shields.io/travis/crushlovely/envbang-node.svg?style=flat)](https://travis-ci.org/crushlovely/envbang-node)
+[![Code Climate](http://img.shields.io/codeclimate/github/crushlovely/envbang-node.svg?style=flat)](https://codeclimate.com/github/crushlovely/envbang-node)
+[![Code Coverage](http://img.shields.io/codeclimate/coverage/github/crushlovely/envbang-node.svg?style=flat)](https://codeclimate.com/github/crushlovely/envbang-node)
 
 Ensure you have all the right environment variables set in your app.
 
