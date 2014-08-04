@@ -1,6 +1,7 @@
 # EnvBang for Node.js
 
 [![NPM Version](http://img.shields.io/npm/v/envbang-node.svg?style=flat)](https://www.npmjs.org/package/envbang-node)
+[![Dependency Status](http://img.shields.io/gemnasium/crushlovely/envbang-node.svg?style=flat)](https://gemnasium.com/crushlovely/envbang-node)
 [![Build Status](http://img.shields.io/travis/crushlovely/envbang-node.svg?style=flat)](https://travis-ci.org/crushlovely/envbang-node)
 [![Code Climate](http://img.shields.io/codeclimate/github/crushlovely/envbang-node.svg?style=flat)](https://codeclimate.com/github/crushlovely/envbang-node)
 [![Code Coverage](http://img.shields.io/codeclimate/coverage/github/crushlovely/envbang-node.svg?style=flat)](https://codeclimate.com/github/crushlovely/envbang-node)
